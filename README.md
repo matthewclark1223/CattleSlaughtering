@@ -1,4 +1,4 @@
-# R code and data repository for 'Community Wellbeing Significantly Affects Land Use Change as an Adaptive Strategy to Drought in South African Pastoralists'
+# R code and data repository for 'Community Wellbeing Mediates Drought Adaptation in South African Rangelands'
 
 The code and data are provided here to allow readers to reproduce the analyses and figures in the manuscript. 
 
